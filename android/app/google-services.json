@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "870075713111",
+    "firebase_url": "https://guessthesong-b9702.firebaseio.com",
+    "project_id": "guessthesong-b9702",
+    "storage_bucket": "guessthesong-b9702.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:870075713111:android:fa18ebc05682f92abe0512",
+        "android_client_info": {
+          "package_name": "se.jate.guess_the_song"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "870075713111-73scj1d3ibi8k13r7cl56cj7brvq4s0b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKMbAHkC3qNsiWOqmmbYMQHVux7x3VlU4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "870075713111-73scj1d3ibi8k13r7cl56cj7brvq4s0b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
